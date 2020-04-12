@@ -10,9 +10,27 @@
 *** github_username, repo, twitter_handle, email
 -->
 
+<!-- PROJECT LOGO -->
+<p align="center">
+  <a href="https://github.com/<github_username>/<repo>">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
 
+  <h3 align="center">Title of your Project</h3>
 
-
+  <p align="center">
+    A short description about your project.
+    <br />
+    <a href="https://github.com/<github_username>/<repo>"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/<github_username>/<repo>">View Demo</a>
+    ·
+    <a href="https://github.com/<github_username>/<repo>/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/<github_username>/<repo>/issues">Request Feature</a>
+  </p>
+</p>
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -22,42 +40,21 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<div align="center">
 
+  [![Contributors][contributors-shield]][contributors-url]
+  [![Forks][forks-shield]][forks-url]
+  [![Stargazers][stars-shield]][stars-url]
+  [![Issues][issues-shield]][issues-url]
+  [![Repo Size][repo-size-shield]][repo-size-url]
+  [![Code Size][code-size-shield]][code-size-url]
+  [![MIT License][license-shield]][license-url]
 
-
-<!-- PROJECT LOGO -->
+</div>
 <br />
-<p align="center">
-  <a href="https://github.com/github_username/repo">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">YOUR_TITLE</h3>
-
-  <p align="center">
-    YOUR_SHORT_DESCRIPTION
-    <br />
-    <a href="https://github.com/github_username/repo"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo/issues">Request Feature</a>
-  </p>
-</p>
-
-
 
 <!-- TABLE OF CONTENTS -->
-## Table of Contents
+<h2>Table of Contents</h2>
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
@@ -71,70 +68,87 @@
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
-
+<br />
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+<h2 id="about-the-project">About The Project</h2>
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<div align="center">
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo`, `twitter_handle`, `email`
+  [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
+</div>
 
-### Built With
+There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
+
+Here's why:
+* Your time should be focused on creating something amazing. A project that solves a problem and helps others
+* You shouldn't be doing the same tasks over and over like creating a README from scratch
+* You should element DRY principles to the rest of your life :smile:
+
+Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
+
+A list of commonly used resources that I find helpful are listed in the acknowledgements.
+
+<h3 id="built-with">Built With</h3>
+
+This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * []()
 * []()
 * []()
 
-
+<br />
 
 <!-- GETTING STARTED -->
-## Getting Started
+<h2 id="getting-started">Getting Started</h2>
 
-To get a local copy up and running follow these simple steps.
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+<h3 id="prerequisites">Prerequisites</h3>
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
 ```sh
 npm install npm@latest -g
 ```
+<h3 id="installation">Installation</h3>
 
-### Installation
- 
-1. Clone the repo
+1. Get a free API Key at [https://example.com](https://example.com)
+2. Clone the repo
 ```sh
-git clone https://github.com/github_username/repo.git
+git clone https://github.com/your_username_/Project-Name.git
 ```
-2. Install NPM packages
+3. Install NPM packages
 ```sh
 npm install
 ```
+4. Enter your API in `config.js`
+```JS
+const API_KEY = 'ENTER YOUR API';
+```
 
-
+<br />
 
 <!-- USAGE EXAMPLES -->
-## Usage
+<h2 id="usage">Usage</h2>
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-
+<br />
 
 <!-- ROADMAP -->
-## Roadmap
+<h2 id="roadmap">Roadmap</h2>
 
-See the [open issues](https://github.com/github_username/repo/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/<github_username>/<repo>/issues) for a list of proposed features (and known issues).
 
-
+<br />
 
 <!-- CONTRIBUTING -->
-## Contributing
+<h2 id="contributing">Contributing</h2>
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -144,47 +158,53 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
+<br />
 
 <!-- LICENSE -->
-## License
+<h2 id="license">License</h2>
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
+<br />
 
 <!-- CONTACT -->
-## Contact
+<h2 id="contact">Contact</h2>
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [https://github.com/github_username/repo](https://github.com/github_username/repo)
+Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
-
+<br />
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+<h2 id="acknowledgements">Acknowledgements</h2>
 
-* []()
-* []()
-* []()
-
-
-
-
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Img Shields](https://shields.io)
+* [Choose an Open Source License](https://choosealicense.com)
+* [GitHub Pages](https://pages.github.com)
+* [Animate.css](https://daneden.github.io/animate.css)
+* [Loaders.css](https://connoratherton.com/loaders)
+* [Slick Carousel](https://kenwheeler.github.io/slick)
+* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
+* [Sticky Kit](http://leafo.net/sticky-kit)
+* [JVectorMap](http://jvectormap.com)
+* [Font Awesome](https://fontawesome.com)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[contributors-shield]: https://img.shields.io/github/contributors/<github_username>/<repo>.svg?style=flat
+[contributors-url]: https://github.com/<github_username>/<repo>/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/<github_username>/<repo>.svg?style=flat
+[forks-url]: https://github.com/<github_username>/<repo>/network/members
+[stars-shield]: https://img.shields.io/github/stars/<github_username>/<repo>.svg?style=flat
+[stars-url]: https://github.com/<github_username>/<repo>/stargazers
+[issues-shield]: https://img.shields.io/github/issues/<github_username>/<repo>.svg?style=flat
+[issues-url]: https://github.com/<github_username>/<repo>/issues
+[license-shield]: https://img.shields.io/github/license/<github_username>/<repo>.svg?style=flat
+[license-url]: https://github.com/<github_username>/<repo>/blob/master/LICENSE.txt
+[repo-size-shield]: https://img.shields.io/github/repo-size/<github_username>/<repo>.svg?style=flat
+[repo-size-url]: https://github.com/<github_username>/<repo>
+[code-size-shield]: https://img.shields.io/github/languages/code-size/<github_username>/<repo>
+[code-size-url]: https://github.com/<github_username>/<repo>
 [product-screenshot]: images/screenshot.png
