@@ -165,7 +165,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 <h2 id="contact">Contact</h2>
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [![Linkedin][linkedin-shield]][linkedin-url]
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
@@ -202,4 +202,6 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [repo-size-url]: https://github.com/cristianprochnow/Best-README-Template
 [code-size-shield]: https://img.shields.io/github/languages/code-size/cristianprochnow/Best-README-Template
 [code-size-url]: https://github.com/cristianprochnow/Best-README-Template
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=0077b4
+[linkedin-url]: https://www.linkedin.com/in/cristianprochnow
 [product-screenshot]: images/screenshot.png
