@@ -11,7 +11,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">BEST-README-TEMPLATE</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
@@ -49,10 +49,11 @@
 <br />
 
 <!-- TABLE OF CONTENTS -->
-<h2>Table of Contents</h2>
+<h2>📚 Table of Contents</h2>
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
+* [Features](#features)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
@@ -66,7 +67,7 @@
 <br />
 
 <!-- ABOUT THE PROJECT -->
-<h2 id="about-the-project">About The Project</h2>
+<h2 id="about-the-project">📖 About The Project</h2>
 
 <div align="center">
 
@@ -85,7 +86,7 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
-<h3 id="built-with">Built With</h3>
+<h3 id="built-with">🔧 Built With</h3>
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
@@ -95,20 +96,28 @@ This section should list any major frameworks that you built your project using.
 
 <br />
 
+<!-- FEATURES -->
+<h2 id="features">📋 Features</h2>
+
+- [x] Be a good README template
+- [x] Spare time and give practicality to project
+
+<br />
+
 <!-- GETTING STARTED -->
-<h2 id="getting-started">Getting Started</h2>
+<h2 id="getting-started">🚀 Getting Started</h2>
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-<h3 id="prerequisites">Prerequisites</h3>
+<h3 id="prerequisites">📝 Prerequisites</h3>
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
 ```sh
 npm install npm@latest -g
 ```
-<h3 id="installation">Installation</h3>
+<h3 id="installation">⚙️ Installation</h3>
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
@@ -127,7 +136,7 @@ const API_KEY = 'ENTER YOUR API';
 <br />
 
 <!-- USAGE EXAMPLES -->
-<h2 id="usage">Usage</h2>
+<h2 id="usage">💡 Usage</h2>
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
@@ -136,14 +145,14 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <br />
 
 <!-- ROADMAP -->
-<h2 id="roadmap">Roadmap</h2>
+<h2 id="roadmap">📈 Roadmap</h2>
 
 See the [open issues](https://github.com/cristianprochnow/Best-README-Template/issues) for a list of proposed features (and known issues).
 
 <br />
 
 <!-- CONTRIBUTING -->
-<h2 id="contributing">Contributing</h2>
+<h2 id="contributing">🔗 Contributing</h2>
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -156,14 +165,14 @@ Contributions are what make the open source community such an amazing place to b
 <br />
 
 <!-- LICENSE -->
-<h2 id="license">License</h2>
+<h2 id="license">📜 License</h2>
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <br />
 
 <!-- CONTACT -->
-<h2 id="contact">Contact</h2>
+<h2 id="contact">📞 Contact</h2>
 
 Your Name - [![Linkedin][linkedin-shield]][linkedin-url]
 
@@ -172,7 +181,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <br />
 
 <!-- ACKNOWLEDGEMENTS -->
-<h2 id="acknowledgements">Acknowledgements</h2>
+<h2 id="acknowledgements">🎓 Acknowledgements</h2>
 
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
