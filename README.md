@@ -158,7 +158,7 @@ Contributions are what make the open source community such an amazing place to b
 
 1. 🍴 Fork the Project
 2. 👯 Clone this project (`git clone https://github.com/cristianprochnow/Best-README-Template.git`)
-3. 🔀 Create your Feature Branch (`git checkout -b my-feature`)
+3. 🎋 Create your Feature Branch (`git checkout -b my-feature`)
 4. ✔️ Commit your Changes (`git commit -m 'feat: My new feature'`)
 5. 📌 Push to the Branch (`git push origin my-feature`)
 6. 🔁 Open a Pull Request
